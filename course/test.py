@@ -1,2 +1,2 @@
-fl = 'stroka'
+print("Hello world)
 
