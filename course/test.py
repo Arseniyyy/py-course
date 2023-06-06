@@ -1,2 +1,4 @@
-print('Hello, how are you?'.find('how'))
+string = 'Out'
+
+print(string[3])
 
